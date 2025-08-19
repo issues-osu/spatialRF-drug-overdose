@@ -1,8 +1,8 @@
 # Spatial Random Forest Modeling of Drug-Related Mortality Rates Using Environmental and Socioeconomic Predictors
 
-![Study Map](map.png)
+![Overdose Fatality in Ten States](map.png)
 
-This repository contains R code for modeling county-level **drug-related mortality rates** in the Atlantic states using **spatial random forest** and **geographically weighted random forest (GWRF)** approaches. The workflow integrates CDC mortality data, environmental justice indicators, and socioeconomic predictors to evaluate spatial heterogeneity in risk factors.
+This repository contains R code for modeling county-level **drug-related mortality rates** in the North Atlantic states using **spatial random forest** and **geographically weighted random forest (GWRF)** approaches. The workflow integrates CDC mortality data, environmental justice indicators, and socioeconomic predictors to evaluate spatial heterogeneity in risk factors.
 
 ---
 
